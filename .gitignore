@@ -1,0 +1,8 @@
+*.png
+*.csv
+*.xlsx
+*.spec
+*.svg
+*.mp4
+*.ipynb
+__pycache__
